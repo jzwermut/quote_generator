@@ -136,3 +136,5 @@ const randomQuote = arr => {
 
 console.log(randomQuote(quoteArray))
 
+//Adding notes so there is something different and I can commit
+
